@@ -1,0 +1,14 @@
+# Environment variables (DO NOT COMMIT)
+.env
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OpenClaw generated outputs (test mock files)
+draft_result.txt
+topics.txt
+article.html
